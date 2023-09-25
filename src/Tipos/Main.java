@@ -1,5 +1,5 @@
 package Tipos;
-public class App {
+public class Main {
     public static void main(String[] args){
 
         vehiculo Vehiculo1 = new vehiculo("RENAULT ", "LOGAN ", 2009, 150);
